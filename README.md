@@ -1,3 +1,6 @@
 My first readme
-Updated
-Final Update
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> update_script
